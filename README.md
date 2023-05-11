@@ -1,2 +1,4 @@
-# dlai_promptengineering
-DEEP LEARNING AI prompt engineering course experimentation.
+## DeepLearning.AI prompt engineering course notebooks
+
+Templates for prompt engineering
+
